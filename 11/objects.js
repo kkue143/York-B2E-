@@ -31,5 +31,4 @@ function remove(index) {
     employees.splice(index, 1)
 }
 
-remove(0)
 read()
